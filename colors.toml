@@ -1,0 +1,35 @@
+# Planet Express: a dark theme inspired by Futurama and computer science.
+# Planet Express ship green accent, Leela purple, Fry orange, Bender chrome
+# text, CRT phosphor cyan, on a deep-space background.
+mode = "dark"
+
+accent = "#7bd88f"
+selection = "#3a3558"
+selection_foreground = "#f4f2fb"
+muted = "#5c5878"
+
+background = "#15131f"
+dark_background = "#100e18"
+darker_background = "#0b0a11"
+lighter_background = "#24213a"
+
+foreground = "#e4e1f0"
+dark_foreground = "#8a86a3"
+light_foreground = "#c8c4dc"
+bright_foreground = "#f4f2fb"
+
+red = "#ff5f6d"
+yellow = "#ffd166"
+orange = "#ff8c42"
+green = "#7bd88f"
+cyan = "#5ce1e6"
+blue = "#6a9bff"
+magenta = "#b57edc"
+brown = "#8b6b4e"
+
+bright_red = "#ff8a94"
+bright_yellow = "#ffe08f"
+bright_green = "#a3e8b2"
+bright_cyan = "#8eedf0"
+bright_blue = "#94b8ff"
+bright_magenta = "#cfa3ec"
